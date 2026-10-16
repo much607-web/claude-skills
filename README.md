@@ -7,8 +7,8 @@ A collection of ready-to-use Claude skills, in Korean and English. ([English bel
 
 | 스킬 | 하는 일 | 이렇게 말하면 작동 | 다운로드 |
 |---|---|---|---|
-| [chat-to-project](chat-to-project/SKILL.md) | 채팅에서 하던 작업을 Claude 프로젝트로 옮기기. 영역 분리안을 먼저 묻고, 프로젝트별 지침·작업현황·첫 메시지 파일을 만들어 줌 | "이거 프로젝트로 전환해줘" | [⬇ zip](https://github.com/much607-web/claude-skills/releases/latest/download/chat-to-project.zip) |
-| [skill-to-github](skill-to-github/SKILL.md) | 만든 스킬을 깃허브에 올리기. 민감정보 점검, 스킬별 공개 여부 추천, README·라이선스 작성, 업로드 안내까지 | "이 스킬 깃허브에 올려줘" | [⬇ zip](https://github.com/much607-web/claude-skills/releases/latest/download/skill-to-github.zip) |
+| [chat-to-project](chat-to-project/SKILL.md) | 채팅에서 하던 작업을 Claude 프로젝트로 옮기기. 영역 분리안을 먼저 묻고, 프로젝트별 지침·작업현황·첫 메시지 파일을 만들어 줌 | "이거 프로젝트로 전환해줘" | [⬇ zip](https://github.com/much607-web/claude-skills/raw/main/downloads/chat-to-project.zip) |
+| [skill-to-github](skill-to-github/SKILL.md) | 만든 스킬을 깃허브에 올리기. 민감정보 점검, 스킬별 공개 여부 추천, README·라이선스 작성, 업로드 안내까지 | "이 스킬 깃허브에 올려줘" | [⬇ zip](https://github.com/much607-web/claude-skills/raw/main/downloads/skill-to-github.zip) |
 
 ### 설치 방법
 **claude.ai / Claude 앱**
@@ -28,8 +28,8 @@ English versions live in the [`en/`](en/) folder.
 
 | Skill | What it does | Say this | Download |
 |---|---|---|---|
-| [chat-to-project](en/chat-to-project/SKILL.md) | Turns an ongoing chat into one or more Claude Projects — proposes how to split the work first, then generates instructions, a status file, and a first message for each project | "Turn this into a project" | [⬇ zip](https://github.com/much607-web/claude-skills/releases/latest/download/chat-to-project-en.zip) |
-| [skill-to-github](en/skill-to-github/SKILL.md) | Publishes your skills to GitHub — scans every file for sensitive info, recommends public or private per skill, writes README/LICENSE, and uploads or walks you through it | "Upload my skill to GitHub" | [⬇ zip](https://github.com/much607-web/claude-skills/releases/latest/download/skill-to-github-en.zip) |
+| [chat-to-project](en/chat-to-project/SKILL.md) | Turns an ongoing chat into one or more Claude Projects — proposes how to split the work first, then generates instructions, a status file, and a first message for each project | "Turn this into a project" | [⬇ zip](https://github.com/much607-web/claude-skills/raw/main/downloads/chat-to-project-en.zip) |
+| [skill-to-github](en/skill-to-github/SKILL.md) | Publishes your skills to GitHub — scans every file for sensitive info, recommends public or private per skill, writes README/LICENSE, and uploads or walks you through it | "Upload my skill to GitHub" | [⬇ zip](https://github.com/much607-web/claude-skills/raw/main/downloads/skill-to-github-en.zip) |
 
 ### Install
 **claude.ai / Claude app**
